@@ -44,7 +44,7 @@ function App() {
         {/* Skills Section */}
         <section id='skills'>
         <div className="skill-heading">
-          <h2 className='section-heading'>Skills</h2>
+          <h2 className='section-heading'><i class="bi bi-lightning-fill"></i>Skills</h2>
           </div>
 
           <div className='skill-body'>
@@ -91,7 +91,7 @@ function App() {
           {/* Projects Section */}
           <section id='projects'>
           <div className="project-heading">
-          <h2 className='section-heading'>Projects</h2>
+          <h2 className='section-heading'><i class="bi bi-lightning-fill"></i>Projects</h2>
           </div>
 
           <div className="project-body">
@@ -130,7 +130,7 @@ function App() {
           {/* Contact Section */}
           <section id='contact'>
           <div className="contact-heading">
-          <h2 className='section-heading'>Contact Me</h2>
+          <h2 className='section-heading'><i class="bi bi-envelope-fill"></i>Contact Me</h2>
           </div>
           <div className="contact-body">
             kavinduv69@gmail.com
