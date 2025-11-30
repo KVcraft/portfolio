@@ -133,7 +133,7 @@ function App() {
           <h2 className='section-heading'>Contact Me</h2>
           </div>
           <div className="contact-body">
-            akavinduv69@gmail.com
+            kavinduv69@gmail.com
           </div>
           </section>
     </>
